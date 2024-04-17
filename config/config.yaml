@@ -21,3 +21,8 @@ prepare_base_model_VGG19:
   root_dir: artifacts/prepare_base_model_VGG19
   base_model_path: artifacts/prepare_base_model_VGG19/base_model.h5
   updated_base_model_path: artifacts/prepare_base_model_VGG19/base_model_updated.h5
+
+
+training:
+  root_dir: artifacts/training
+  trained_model_path: artifacts/training/model.h5
